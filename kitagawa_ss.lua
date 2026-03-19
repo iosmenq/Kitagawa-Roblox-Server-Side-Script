@@ -107,12 +107,12 @@ local function ShowHint()
 		end
 	end
 	local hint = Instance.new("Hint")
-	hint.Text = "Boklu Ekin Babuş"
+	hint.Text = "Kitagawa Here!"
 	hint.Parent = Workspace
 end
 
 local function CreateGui(player)
-	if player.Name~="itseIysia" then return end
+	if player.Name~="YOUR_ROBLOX_USERNAME" then return end
 	local gui=Instance.new("ScreenGui")
 	gui.Name="AdminPanel"
 	gui.ResetOnSpawn=false
