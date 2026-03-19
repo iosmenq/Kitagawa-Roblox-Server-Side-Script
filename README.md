@@ -1,2 +1,4 @@
 # Kitagawa-Roblox-Server-Side-Script
-This script adds Kitagawa visuals for each part, separately on the server side, and emits Kitagawa particles from all players.
+_This script adds Kitagawa visuals for each part, separately on the server side, and emits Kitagawa particles from all players._
+
+**USAGE OUTSIDE OF YOUR OWN GAME IS NOT RECOMMENDED**
